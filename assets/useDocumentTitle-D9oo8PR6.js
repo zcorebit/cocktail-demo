@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{A as t}from"./icons-DAn-K_MS.js";import{u as n}from"./index-D19g0d9W.js";var r=e(t(),1);function i(e){(0,r.useEffect)(()=>{let{name:t,slogan:r}=n().brand;document.title=e?`${e} — ${t}`:`${t} | ${r}`},[e])}export{i as t};

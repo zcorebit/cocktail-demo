@@ -1,0 +1,1 @@
+import{b as e,k as t}from"./index-D19g0d9W.js";function n(){return e(t())}function r(e){return n().find(t=>t.slug===e)}export{r as t};
